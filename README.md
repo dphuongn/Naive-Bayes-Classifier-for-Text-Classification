@@ -1,6 +1,6 @@
 # Naive Bayes Classifier for Text Classification
 
-Naive Bayes classifiers have been successfully applied to classifying text documents. We will implement the Naive Bayes algorithm to tackle the \20 Newsgroups" classification problem.
+Naive Bayes classifiers have been successfully applied to classifying text documents. We will implement the Naive Bayes algorithm to tackle the "20 Newsgroups" classification problem.
 
 ## Data Set
 The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. It was originally collected by Ken Lang, probably for his Newsweeder: Learning to filter netnews [1] paper, though he did not explicitly mention this collection. The 20 newsgroups collection has become a popular data set for
